@@ -15,6 +15,6 @@ git tag ~~nom~~ afegeix un tag
 git gui - per a fer el commit i el push en una mateixa eina.
 
 # Usuaris
-*User: Júlia Marsal. *
+* User: Júlia Marsal.*
 
 
