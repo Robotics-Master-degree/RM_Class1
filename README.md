@@ -18,3 +18,7 @@ git gui - per a fer el commit i el push en una mateixa eina.
 * User: Júlia Marsal.*
 
 
+**Gif**
+![gifline](media/Twyn.gif)
+
+
